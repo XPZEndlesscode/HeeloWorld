@@ -1,9 +1,9 @@
 #include<stdio.h>
 
-int main(void)
+int main(int argc, char* argv[])
 {
   
-  printf("clone remote resposity\r\n\r\n ");
+  printf("Hello World\r\n\r\n ");
   return 0;
 }
 //2019.4.15 Github modify
